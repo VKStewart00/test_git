@@ -1,7 +1,7 @@
 ---
 title: "test_Quarto"
 author: "Van K Stewart"
-format: html
+format: gfm
 ---
 
 ## Quarto
